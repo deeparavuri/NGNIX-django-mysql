@@ -1,3 +1,5 @@
+This project contains a dockerfile and docker-compose file 
+
 This is a notes app  that is built with React and Django.
 
 ## Requirements
